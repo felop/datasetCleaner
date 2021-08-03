@@ -1,7 +1,6 @@
 # datasetCleaner
-A dataset cleaner for pictures
+A small library that deletes every corrupted image in a dataset  
 
-## Getting Started
 
 ### 🛠 Prerequisites
 
