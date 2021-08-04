@@ -13,4 +13,4 @@ pip install datasetCleaner
 
 ### 📟 How to use it :
 #### datasetCleaner.clean(path)
-this function delete all the bugged images in the path. <br /> (⚠️ATTENTION⚠️ : this order erase all files who arn't images in the path like text files, vidéos, folders and more)
+this function removes all corrupted images in the path. <br /> (⚠️ATTENTION⚠️ : this command deletes all non-image files in the directory, such as text files, videos and folders.
