@@ -8,7 +8,7 @@ A small library that deletes every corrupted image in a dataset
 pip install datasetCleaner
 ```
 
-### 📟 How to use it :
+### 🛠 How to use it :
 ```
 datasetCleaner.clean(path)
 ```
