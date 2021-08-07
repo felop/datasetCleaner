@@ -3,10 +3,6 @@ A small library that deletes every corrupted image in a dataset
 
 ![downloads per month](https://img.shields.io/pypi/dm/datasetCleaner?color=red)  ![python version](https://img.shields.io/pypi/pyversions/datasetCleaner)  ![license](https://img.shields.io/pypi/l/datasetCleaner)  ![version](https://img.shields.io/pypi/v/datasetCleaner)
 
-### 🛠 Prerequisites
-
-Python3 or newer.
-
 ### 🛠 Installation
 ```
 pip install datasetCleaner
